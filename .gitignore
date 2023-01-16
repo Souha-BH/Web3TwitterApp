@@ -8,5 +8,8 @@ node_modules/
 .env
 .env.test
 
+# cache
+cache/
 
-
+# ds_store
+.DS_Store
