@@ -30,5 +30,6 @@ $ npx hardhat node
 ### 7. Launch Frontend
 `$ npm run start`
 
-
+## [Demo](https://github.com/Souha-BH/Web3TwitterApp/blob/main/BlockchainProjectDemo.mov)
+## [Report](https://github.com/Souha-BH/Web3TwitterApp/blob/main/RapportBlockchain.pdf)
 
